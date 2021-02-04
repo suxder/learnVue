@@ -27,8 +27,3 @@ function sortArray(array,key) {
     })
   }
 ```
-
-
-
-
-
